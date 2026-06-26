@@ -1,7 +1,7 @@
 ---
 name: agent-org-manager
 slug: agent-org-manager
-version: 1.0.0
+version: 1.0.1
 displayName: "Agent Organization Manager"
 summary: "Multi-department agent org setup with hierarchy, comms, reporting, learning, and audit systems."
 description: "Multi-department agent org setup: hierarchy, comms, reporting, learning, audit. Triggers: 'agent team', 'agent organization', 'agent roster'"

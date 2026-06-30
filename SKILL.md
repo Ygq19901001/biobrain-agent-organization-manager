@@ -1,7 +1,7 @@
 ---
 name: agent-org-manager
 slug: agent-org-manager
-version: 1.1.1
+version: 1.5.0
 displayName: "Agent Organization Manager — 多部门Agent组织架构"
 summary: "多部门AI Agent组织架构搭建：层级设计/通讯协议/日报汇报/学习系统/全员审计。解决Agent多了互相踩脚的问题。"
 description: "多部门AI Agent组织架构搭建：层级设计、三通道通讯协议、日报汇报链、自主学习系统、全员审计巡查。解决Agent多了互相踩脚的问题——不是教你建团队，是教你一个AI团队怎么不被自己搞死。触发词：「agent团队」「多Agent组织」「Agent分工」「Agent管理」「Agent架构」「Agent协作」「AI组织」"
